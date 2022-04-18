@@ -40,6 +40,5 @@ Preprints:
 
 * Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2020). Exploring the Effect of Personalized Background Music on Reading Comprehension. Proceedings of the Jointed Conference on Digital Libraries (JCDL) 2020 (pp. 57–66). Association for Computing Machinery, New York, NY, USA. (accept rate: 31.1%)
 
-* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) 
-  * [Student Travel Award Winner]
+* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) **[Student Travel Award Winner]**
 
