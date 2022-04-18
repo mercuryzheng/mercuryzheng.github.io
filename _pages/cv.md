@@ -58,13 +58,16 @@ redirect_from:
   
 ## Service and leadership
 
-- Reviewer of the Annual meeting of Cognitive Science Society (conference), 2020-2022
+_University Services_
 - Eye-tracking lab manager, Department of Psychology, HKU, 2019-now
 - Lab manager, Attention brain and cognition lab, HKU, 2019-2021
 - Student mentor & student academic advisor, HKU CSSAUD, 2015-2018
 
 _Reviewer of Journals_
 - International Journal of Human-Computer Interaction (IF = 3.353); 
+
+_Reviewer of Conferences_
+- Reviewer of the Annual meeting of Cognitive Science Society (conference), 2020-2022
 
 ## Hobbies
 * Soccer: Captain of HKU CSSAUD women football team, 2021-now 
