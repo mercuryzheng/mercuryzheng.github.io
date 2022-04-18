@@ -27,7 +27,6 @@ Feel free to contact me through email if you would like to communicate!
   \
   \
   \
-  \
-  
+\
 ----------------------------------------------------------------------------------------------------
-  \
+  
