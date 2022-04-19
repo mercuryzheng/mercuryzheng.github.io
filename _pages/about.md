@@ -9,27 +9,31 @@ redirect_from:
 ---
   \
   \
+\
+  \
+  \
+  \
+  Hello! This is Mercury Zheng's home on the web!
+
 ----------------------------------------------------------------------------------------------------
   \
   \
+ \
   \
   \
-Hello This is Mercury Zheng's home on the web!
+  My research interests lies in Audiovisual integration, multimedia learning, face processing, eye movements...
   \
+  \
+  \
+  \
+  \
+----------------------------------------------------------------------------------------------------
+  
+\
   \
   \
   \
 You can explore my work in academia and interests here~ Nice to meet you!
-
 Feel free to contact me through email if you would like to communicate!
-  \
-  \
-  \
-\
-----------------------------------------------------------------------------------------------------
+
   
-My research interests: Audiovisual integration; multimedia learning; face processing; eye movements
-  \
-  \
-  \
-  \
