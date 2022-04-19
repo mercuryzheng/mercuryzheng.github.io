@@ -21,12 +21,15 @@ redirect_from:
  \
   \
   \
-  My research interests lies in Audiovisual integration, multimedia learning, face processing, eye movements...
+ 
+ My research interests lies in Audiovisual integration, multimedia learning, face processing, eye movements...
+  
   \
   \
   \
   \
   \
+  
 ----------------------------------------------------------------------------------------------------
   
 \
