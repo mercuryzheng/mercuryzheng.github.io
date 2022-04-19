@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+  \
+  \
 ----------------------------------------------------------------------------------------------------
   \
   \
@@ -30,3 +31,4 @@ Feel free to contact me through email if you would like to communicate!
 \
 ----------------------------------------------------------------------------------------------------
   
+My research interests: Audiovisual integration; multimedia learning; face processing; eye movements
