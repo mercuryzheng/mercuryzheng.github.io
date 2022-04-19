@@ -9,23 +9,23 @@ This page contains all my publications; for more details, see my [Google Scholar
 
 ## Publications in Journals (* corresponding author)
 
-*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***download***)](https://doi.org/10.1016/j.learninstruc.2021.101542) 
+_Published articles_
+*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***Download***)](https://doi.org/10.1016/j.learninstruc.2021.101542) 
 
 *	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X. (2022, accepted by Attention, Perception, & Psychophysics). Making a saccade enhances Stroop and Simon conflict control. 
 
-*	Hsiao, J. H.* , Lan H., ***Zheng, Y.***, & Chan, A. B. (2021). Eye Movement analysis with Hidden Markov Models (EMHMM) with co-clustering. _Behavior Research Methods_, 1-14.  [(***download***)](https://doi.org/10.3758/s13428-021-01541-5)
+*	Hsiao, J. H.* , Lan H., ***Zheng, Y.***, & Chan, A. B. (2021). Eye Movement analysis with Hidden Markov Models (EMHMM) with co-clustering. _Behavior Research Methods_, 1-14.  [(***Download***)](https://doi.org/10.3758/s13428-021-01541-5)
 
-*	Hsiao, J. H.* , An, J.,  ***Zheng, Y.***, & Chan, A. B. (2021). Do portrait artists have enhanced face processing abilities? Evidence from hidden Markov modeling of eye movements._ Cognition, 211_, 104616. [(***download***)](https://doi.org/10.1016/j.cognition.2021.104616) 
+*	Hsiao, J. H.* , An, J.,  ***Zheng, Y.***, & Chan, A. B. (2021). Do portrait artists have enhanced face processing abilities? Evidence from hidden Markov modeling of eye movements._ Cognition, 211_, 104616. [(***Download***)](https://doi.org/10.1016/j.cognition.2021.104616) 
 
-*	Turbett, K.* , Jeffery, L., Bell, J., Digges, A., ***Zheng, Y.***, Hsiao, J. H., Palermo, R. (2021). Serial Dependence of Facial Identity for Own- and Other-Race Faces. _Quarterly Journal of Experimental Psychology_, 17470218211059430. [(***download***)](https://doi.org/10.1177/17470218211059430) 
+*	Turbett, K.* , Jeffery, L., Bell, J., Digges, A., ***Zheng, Y.***, Hsiao, J. H., Palermo, R. (2021). Serial Dependence of Facial Identity for Own- and Other-Race Faces. _Quarterly Journal of Experimental Psychology_, 17470218211059430. [(***Download***)](https://doi.org/10.1177/17470218211059430) 
 
-
-Manuscripts under Review
+_Manuscripts under Review_
 *	***Zheng, Y.***, & Hsiao, J. H.* (under review by Emotion). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. 
 
 *	***Zheng, Y.***, & Saunders, J.* (under review by Attention, Perception, & Psychophysics). Adaptation to elevated eye-height in virtual reality can alter the perceived scale of both the body and world.
 
-Preprints:
+_Preprints_
 *	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***perprint***)] (https://arxiv.org/abs/2107.14000)
 
 
