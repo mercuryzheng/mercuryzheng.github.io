@@ -30,7 +30,7 @@ _Preprints_
 
 
 ## Full-Paper Publications in Peer-Reviewed Conference Proceedings! (* corresponding author)
-* ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) 
+* ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%; Student Award Winner) 
 
 * ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT).
 
