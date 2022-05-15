@@ -11,12 +11,13 @@ redirect_from:
 
 ## Education
 
-* B.S. in Psychology, University of Hong Kong, 2018
+* B.S.S. in Psychology, University of Hong Kong, 2018
 * M.Phil in Cognitive Psychology, University of Hong Kong, 2021
 * Ph.D in Cognitive Psychology, University of Hong Kong, 2024
 
 ## Honors and awards
 
+* Student Award, IEEE TCLT, 2022
 * Postgraduate Scholarship, HKU, 2021-2024
 * Three minutes competition (3MT) finalist, HKU, 2020
 * Outstanding Oral Presentation Award, HKU Department of Psychology, 2020
