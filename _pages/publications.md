@@ -10,6 +10,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 ## Publications in Journals (* corresponding author)
 
 _Published articles_
+*	***Zheng, Y.***, & Hsiao, J. H.* (Accepted by Emotion). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. 
+
 *	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***Download***)](https://doi.org/10.1016/j.learninstruc.2021.101542) 
 
 *	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X. (2022, accepted by Attention, Perception, & Psychophysics). Making a saccade enhances Stroop and Simon conflict control. 
@@ -20,7 +22,6 @@ _Published articles_
 
 *	Turbett, K.* , Jeffery, L., Bell, J., Digges, A., ***Zheng, Y.***, Hsiao, J. H., Palermo, R. (2021). Serial Dependence of Facial Identity for Own- and Other-Race Faces. _Quarterly Journal of Experimental Psychology_, 17470218211059430. [(***Download***)](https://doi.org/10.1177/17470218211059430) 
 
-*	***Zheng, Y.***, & Hsiao, J. H.* (Accepted by Emotion). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. 
 
 
 _Manuscripts under Review_
@@ -29,6 +30,7 @@ _Manuscripts under Review_
 
 _Preprints_
 *	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***Perprint***)](https://arxiv.org/abs/2107.14000)
+
 
 
 ## Full-Paper Publications in Peer-Reviewed Conference Proceedings! (* corresponding author)
