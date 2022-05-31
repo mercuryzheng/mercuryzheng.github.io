@@ -20,10 +20,12 @@ _Published articles_
 
 *	Turbett, K.* , Jeffery, L., Bell, J., Digges, A., ***Zheng, Y.***, Hsiao, J. H., Palermo, R. (2021). Serial Dependence of Facial Identity for Own- and Other-Race Faces. _Quarterly Journal of Experimental Psychology_, 17470218211059430. [(***Download***)](https://doi.org/10.1177/17470218211059430) 
 
-_Manuscripts under Review_
-*	***Zheng, Y.***, & Hsiao, J. H.* (under review by Emotion). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. 
+*	***Zheng, Y.***, & Hsiao, J. H.* (Accepted by Emotion). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. 
 
-*	***Zheng, Y.***, & Saunders, J.* (under review by Attention, Perception, & Psychophysics). Adaptation to elevated eye-height in virtual reality can alter the perceived scale of both the body and world.
+
+_Manuscripts under Review_
+
+*	***Zheng, Y.***, & Saunders, J.* (under review). Adaptation to elevated eye-height in virtual reality can alter the perceived scale of both the body and world.
 
 _Preprints_
 *	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***Perprint***)](https://arxiv.org/abs/2107.14000)
