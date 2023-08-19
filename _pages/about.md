@@ -16,7 +16,7 @@ My research interests include visual cognition, science of learning and computat
 More specifically, I am interested in how multimodal information can guide people's eye movement strategies when doing various tasks, such as in multimedia learning, emotion recognition and face recognition. I would like to simulate human cognition using computationa modeling to better understand the patterns and mechenisms of human behaviors. In addition, I am also interested in neural representations underlying those effects.
 \
   \
-For more information, check out my [CV] (https://drive.google.com/file/d/1MgGtn9CSfNI6ix6YnCVaWsZ9Jw9E9tap/view?usp=sharing) here.
+For more information, check out my [CV](https://drive.google.com/file/d/1MgGtn9CSfNI6ix6YnCVaWsZ9Jw9E9tap/view?usp=sharing) here.
 \
   \
   \
