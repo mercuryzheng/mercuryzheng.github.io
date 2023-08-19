@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Mercury"
+excerpt: "About Mercury"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,13 +13,7 @@ redirect_from:
   \
   \
   \
-Hello! This is Mercury Zheng's home on the web!
-
-----------------------------------------------------------------------------------------------------
- 
-> My research interests lie in Audiovisual integration, multimedia learning, face processing, eye movements...
-  
-----------------------------------------------------------------------------------------------------
+Hello! This is Mercury Zheng! I am currently a final-year Ph.D. student in Cognitive Science supervised by Dr Janet Hsiao at the University of Hong Kong. I obtained my MPhil 
 \
   \
   \
