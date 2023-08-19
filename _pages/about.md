@@ -19,8 +19,6 @@ More specifically, I am interested in how multimodal information can guide peopl
 For more information, check out my [CV](https://drive.google.com/file/d/1MgGtn9CSfNI6ix6YnCVaWsZ9Jw9E9tap/view?usp=sharing) here.
 \
   \
-  \
-  \
 Feel free to contact me through email if you would like to communicate!
 
   
