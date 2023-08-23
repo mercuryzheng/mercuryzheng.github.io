@@ -25,7 +25,9 @@ July 29th, 2022	The impact of mask use on social categorization. 44th Annual Con
 \
 \
 Poster Presentations at Conferences
+\
 Jul. 28th, 2020	Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. 42nd Annual Conference of the Cognitive Science Society.
+\
 June 29th, 2023	Cultural Differences in the Effect of Mask Use on Face and Facial Expression Recognition. Poster presented at the 45th Annual Conference of the Cognitive Science Society.
 \
 \
