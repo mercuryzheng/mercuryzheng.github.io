@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I tutor undergraduate courses in the Department of Psychology, HKU.
+I tutor undergraduate courses from the Department of Psychology, HKU.
 
 ### Course Lists
 
