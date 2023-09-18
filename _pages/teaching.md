@@ -5,10 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I tutor undergraduate courses in the department of Psychology.
+I tutor undergraduate courses in the Department of Psychology, HKU.
 
 ### Course Lists
 
-* Foundations of Cognitive Science
+* Foundations in Neuroscience
+* Foundations in Cognitive Science
 * Introduction to Psychology 
 * Introduction to Quantitative Methods in Psychology
