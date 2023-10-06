@@ -10,7 +10,10 @@ This page contains all my publications; for more details, see my [Google Scholar
 ## Publications in Journals (* corresponding author)
 
 _Published articles_
-*	***Zheng, Y.***, & Hsiao, J. H.* (Accepted by Emotion). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. 
+*	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.
+  
+*	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
+reading task with eye movements. _Scientific Reports, 13_(1), 1704.
 
 *	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***Download***)](https://doi.org/10.1016/j.learninstruc.2021.101542) 
 
@@ -24,19 +27,22 @@ _Published articles_
 
 
 
-_Manuscripts under Review_
-
-*	***Zheng, Y.***, & Saunders, J.* (under review). Adaptation to elevated eye-height in virtual reality can alter the perceived scale of both the body and world.
 
 _Preprints_
+* Qi, R.#, Zheng, Y.#, Yang, Y., Cao, C. C., & Hsiao, J. H. (2023). Explanation Strategies for Image Classification in Humans vs. Current Explainable AI. https://arxiv.org/abs/2304.04448. [(***Perprint***)](https://arxiv.org/abs/2304.04448)
 *	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***Perprint***)](https://arxiv.org/abs/2107.14000)
 
 
 
 ## Full-Paper Publications in Peer-Reviewed Conference Proceedings! (* corresponding author)
+* ***Zheng, Y.***, de la Harpe, S., Yang, A. Y., Hayward, W. G., Palermo, R., Hsiao, J. H. (2023). Cultural Differences in the Effect of Mask Use on Face and Facial Expression Recognition. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***Download***)](https://escholarship.org/content/qt5dk4k4nq/qt5dk4k4nq.pdf)
+
+* Qi, R., ***Zheng, Y.***, Yang, Y., Zhang, J., & Hsiao, J. H. (2023). Individual differences in explanation strategies for image classification and implications for explainable AI. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***Download***)](https://escholarship.org/content/qt4kp9h54m/qt4kp9h54m.pdf) 
+  
 * ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) 
 
 * ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [Student Award Winner]
+* Yang, Y., ***Zheng, Y.***, Deng, D., Zhang, J., Huang, Y., Yang, Y., Hsiao, J. H., & Cao, C.* (2022). HSI: Human Saliency Imitator for Benchmarking Saliency-based Model Explanations. The Tenth AAAI Conference on Human Computation and Crowdsourcing (HCOMP).
 
 * Qiu, L., Yang, Y., Cao, C. C., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2022). Generating Perturbation-based Explanations with Robustness to Out-of-Distribution Data. The ACM Web Conference 2022 (under Web4Good special track). (accept rate: 24%)
 
@@ -44,5 +50,5 @@ _Preprints_
 
 * Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2020). Exploring the Effect of Personalized Background Music on Reading Comprehension. Proceedings of the Jointed Conference on Digital Libraries (JCDL) 2020 (pp. 57–66). Association for Computing Machinery, New York, NY, USA. (accept rate: 31.1%)
 
-* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [(_Student Travel Award Winner_)](https://www.researchgate.net/profile/Yueyuan-Zheng-2/publication/346096163_Does_Video_Content_Facilitate_or_Impair_Comprehension_of_Documentaries_The_Effect_of_Cognitive_Abilities_and_Eye_Movement_Strategy/links/5fbb6cff458515b797628e10/Does-Video-Content-Facilitate-or-Impair-Comprehension-of-Documentaries-The-Effect-of-Cognitive-Abilities-and-Eye-Movement-Strategy.pdf)
+* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [_Student Travel Award Winner_][(***Download***)](https://www.researchgate.net/profile/Yueyuan-Zheng-2/publication/346096163_Does_Video_Content_Facilitate_or_Impair_Comprehension_of_Documentaries_The_Effect_of_Cognitive_Abilities_and_Eye_Movement_Strategy/links/5fbb6cff458515b797628e10/Does-Video-Content-Facilitate-or-Impair-Comprehension-of-Documentaries-The-Effect-of-Cognitive-Abilities-and-Eye-Movement-Strategy.pdf)
 
