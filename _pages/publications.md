@@ -29,7 +29,7 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704.
 
 
 _Preprints_
-* Qi, R.#, Zheng, Y.#, Yang, Y., Cao, C. C., & Hsiao, J. H. (2023). Explanation Strategies for Image Classification in Humans vs. Current Explainable AI. https://arxiv.org/abs/2304.04448. [(***Perprint***)](https://arxiv.org/abs/2304.04448)
+* Qi, R.#, Zheng, Y.#, Yang, Y., Cao, C. C., & Hsiao, J. H. (2023). Explanation Strategies for Image Classification in Humans vs. Current Explainable AI. [(***Perprint***)](https://arxiv.org/abs/2304.04448)
 *	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***Perprint***)](https://arxiv.org/abs/2107.14000)
 
 
@@ -42,7 +42,8 @@ _Preprints_
 * ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) 
 
 * ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [Student Award Winner]
-* Yang, Y., ***Zheng, Y.***, Deng, D., Zhang, J., Huang, Y., Yang, Y., Hsiao, J. H., & Cao, C.* (2022). HSI: Human Saliency Imitator for Benchmarking Saliency-based Model Explanations. The Tenth AAAI Conference on Human Computation and Crowdsourcing (HCOMP).
+
+* Yang, Y., ***Zheng, Y.***, Deng, D., Zhang, J., Huang, Y., Yang, Y., Hsiao, J. H., & Cao, C.* (2022). HSI: Human Saliency Imitator for Benchmarking Saliency-based Model Explanations. The Tenth AAAI Conference on Human Computation and Crowdsourcing (HCOMP). (accept rate: 29%)
 
 * Qiu, L., Yang, Y., Cao, C. C., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2022). Generating Perturbation-based Explanations with Robustness to Out-of-Distribution Data. The ACM Web Conference 2022 (under Web4Good special track). (accept rate: 24%)
 
