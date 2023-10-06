@@ -7,7 +7,7 @@ author_profile: true
 This page contains all my publications; for more details, see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Cpnk91sAAAAJ) profile. 
 
 
-## Publications in Peer-reviewed Journals (* corresponding author)
+## Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
 _Published articles_
 *	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.
