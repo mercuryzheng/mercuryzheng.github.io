@@ -43,7 +43,7 @@ _Preprints_
   
 * ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) 
 
-* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [Student Award Winner]
+* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [_***Student Award Winner***_] [_***Best Full Paper Nomination***_]
 
 * Yang, Y., ***Zheng, Y.***, Deng, D., Zhang, J., Huang, Y., Yang, Y., Hsiao, J. H., & Cao, C.* (2022). HSI: Human Saliency Imitator for Benchmarking Saliency-based Model Explanations. The Tenth AAAI Conference on Human Computation and Crowdsourcing (HCOMP). (accept rate: 29%)
 
@@ -53,5 +53,5 @@ _Preprints_
 
 * Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2020). Exploring the Effect of Personalized Background Music on Reading Comprehension. Proceedings of the Jointed Conference on Digital Libraries (JCDL) 2020 (pp. 57–66). Association for Computing Machinery, New York, NY, USA. (accept rate: 31.1%)
 
-* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [_Student Travel Award Winner_] [(***Download***)](https://www.researchgate.net/profile/Yueyuan-Zheng-2/publication/346096163_Does_Video_Content_Facilitate_or_Impair_Comprehension_of_Documentaries_The_Effect_of_Cognitive_Abilities_and_Eye_Movement_Strategy/links/5fbb6cff458515b797628e10/Does-Video-Content-Facilitate-or-Impair-Comprehension-of-Documentaries-The-Effect-of-Cognitive-Abilities-and-Eye-Movement-Strategy.pdf)
+* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [_***Student Travel Award Winner***_] [(***Download***)](https://www.researchgate.net/profile/Yueyuan-Zheng-2/publication/346096163_Does_Video_Content_Facilitate_or_Impair_Comprehension_of_Documentaries_The_Effect_of_Cognitive_Abilities_and_Eye_Movement_Strategy/links/5fbb6cff458515b797628e10/Does-Video-Content-Facilitate-or-Impair-Comprehension-of-Documentaries-The-Effect-of-Cognitive-Abilities-and-Eye-Movement-Strategy.pdf)
 
