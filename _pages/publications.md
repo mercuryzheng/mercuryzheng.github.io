@@ -13,7 +13,9 @@ _Published articles_
 *	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.
   
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
-reading task with eye movements. _Scientific Reports, 13_(1), 1704.
+reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Download***)](https://www.nature.com/articles/s41598-023-28426-1)
+
+* Hsiao, J. H.*, An, J., Hui, V. K. S., ***Zheng, Y.***, & Chan, A. B. (2022). Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models. _npj Science of Learning, 7_(1), 1-13. [(***Download***)](https://www.nature.com/articles/s41539-022-00139-6) 
 
 *	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***Download***)](https://doi.org/10.1016/j.learninstruc.2021.101542) 
 
@@ -51,5 +53,5 @@ _Preprints_
 
 * Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2020). Exploring the Effect of Personalized Background Music on Reading Comprehension. Proceedings of the Jointed Conference on Digital Libraries (JCDL) 2020 (pp. 57–66). Association for Computing Machinery, New York, NY, USA. (accept rate: 31.1%)
 
-* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [_Student Travel Award Winner_][(***Download***)](https://www.researchgate.net/profile/Yueyuan-Zheng-2/publication/346096163_Does_Video_Content_Facilitate_or_Impair_Comprehension_of_Documentaries_The_Effect_of_Cognitive_Abilities_and_Eye_Movement_Strategy/links/5fbb6cff458515b797628e10/Does-Video-Content-Facilitate-or-Impair-Comprehension-of-Documentaries-The-Effect-of-Cognitive-Abilities-and-Eye-Movement-Strategy.pdf)
+* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [_Student Travel Award Winner_] [(***Download***)](https://www.researchgate.net/profile/Yueyuan-Zheng-2/publication/346096163_Does_Video_Content_Facilitate_or_Impair_Comprehension_of_Documentaries_The_Effect_of_Cognitive_Abilities_and_Eye_Movement_Strategy/links/5fbb6cff458515b797628e10/Does-Video-Content-Facilitate-or-Impair-Comprehension-of-Documentaries-The-Effect-of-Cognitive-Abilities-and-Eye-Movement-Strategy.pdf)
 
