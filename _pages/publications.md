@@ -7,7 +7,7 @@ author_profile: true
 This page contains all my publications; for more details, see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Cpnk91sAAAAJ) profile. 
 
 
-## Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
+### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
 _Published articles_
 *	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.
@@ -36,7 +36,7 @@ _Preprints_
 
 
 
-## Full-Paper Publications in Peer-Reviewed Conference Proceedings! 
+### Full-Paper Publications in Peer-Reviewed Conference Proceedings! 
 * ***Zheng, Y.***, de la Harpe, S., Yang, A. Y., Hayward, W. G., Palermo, R., Hsiao, J. H. (2023). Cultural Differences in the Effect of Mask Use on Face and Facial Expression Recognition. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***Download***)](https://escholarship.org/content/qt5dk4k4nq/qt5dk4k4nq.pdf)
 
 * Qi, R., ***Zheng, Y.***, Yang, Y., Zhang, J., & Hsiao, J. H. (2023). Individual differences in explanation strategies for image classification and implications for explainable AI. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***Download***)](https://escholarship.org/content/qt4kp9h54m/qt4kp9h54m.pdf) 
