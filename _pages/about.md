@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 \
-Hello! This is Yueyuan (Mercury) Zheng! I am currently a final-year Ph.D. student in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) at the [Department of Psychology](https://psychology.hku.hk/), University of Hong Kong. I obtained my MPhil degree in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) and Bachelor degree in Psychology at the University of Hong Kong in 2021 and 2018, respectively.
+Hi, this is Yueyuan (Mercury) Zheng. I am currently a final-year Ph.D. student in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) at the [Department of Psychology](https://psychology.hku.hk/), University of Hong Kong. I obtained my MPhil degree in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) and Bachelor degree in Psychology at the University of Hong Kong in 2021 and 2018, respectively.
 \
   \
 My research interests include visual cognition, science of learning, and computational modeling.\
