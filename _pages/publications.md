@@ -9,7 +9,6 @@ author_profile: true
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
-_Published articles_
 *	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.
   
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
@@ -30,13 +29,13 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Downloa
 
 
 
-_Preprints_
-* Qi, R.#, Zheng, Y.#, Yang, Y., Cao, C. C., & Hsiao, J. H. (2023). Explanation Strategies for Image Classification in Humans vs. Current Explainable AI. [(***Perprint***)](https://arxiv.org/abs/2304.04448)
+***Preprints***
+* Qi, R.#, ***Zheng, Y.***#, Yang, Y., Cao, C. C., & Hsiao, J. H. (2023). Explanation Strategies for Image Classification in Humans vs. Current Explainable AI. [(***Perprint***)](https://arxiv.org/abs/2304.04448)
 *	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***Perprint***)](https://arxiv.org/abs/2107.14000)
 
 
 
-### Full-Paper Publications in Peer-Reviewed Conference Proceedings! 
+### Full-Paper Publications in Peer-Reviewed Conference Proceedings
 * ***Zheng, Y.***, de la Harpe, S., Yang, A. Y., Hayward, W. G., Palermo, R., Hsiao, J. H. (2023). Cultural Differences in the Effect of Mask Use on Face and Facial Expression Recognition. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***Download***)](https://escholarship.org/content/qt5dk4k4nq/qt5dk4k4nq.pdf)
 
 * Qi, R., ***Zheng, Y.***, Yang, Y., Zhang, J., & Hsiao, J. H. (2023). Individual differences in explanation strategies for image classification and implications for explainable AI. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***Download***)](https://escholarship.org/content/qt4kp9h54m/qt4kp9h54m.pdf) 
