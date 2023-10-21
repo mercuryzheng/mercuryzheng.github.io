@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page contains all my publications; for more details, see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=Cpnk91sAAAAJ) profile. 
+[Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=Cpnk91sAAAAJ) 
 
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
