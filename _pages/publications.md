@@ -9,7 +9,7 @@ author_profile: true
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
-*	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.[(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_Emotion.pdf)
+*	***Zheng, Y.***, & Hsiao, J. H.* (2023). Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.[(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_Emotion.pdf)
   
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
 reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Download***)](https://www.nature.com/articles/s41598-023-28426-1)
