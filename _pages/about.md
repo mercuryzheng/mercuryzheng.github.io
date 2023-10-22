@@ -16,7 +16,7 @@ My research interests include visual cognition, science of learning, and computa
 More specifically, I am interested in how multimodal information can guide people's eye movement strategies when doing various tasks (e.g., multimedia learning, emotion recognition, and face recognition), and the neural representations underlying those effects. I am also interested in simulating human cognition using computational modeling to better understand the patterns and mechanisms of human behaviors. 
 \
   \
-For more information, check out my [cv](https://mercuryzheng.github.io/files/yz_cv.pdf) here.
+For more information, check out my [CV](https://mercuryzheng.github.io/files/yz_cv.pdf) here.
 \
   \
 Feel free to contact me through email if you would like to communicate!
