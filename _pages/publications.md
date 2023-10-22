@@ -9,14 +9,14 @@ author_profile: true
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
-*	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.[(***PDF***)] (https://mercuryzheng.github.io/files/Zheng 2022 Emotion.pdf)
+*	***Zheng, Y.***, & Hsiao, J. H.* 2023. Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.[(***PDF***)] (https://mercuryzheng.github.io/files/Zheng2022_Emotion.pdf)
   
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
 reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Download***)](https://www.nature.com/articles/s41598-023-28426-1)
 
-* Hsiao, J. H.*, An, J., Hui, V. K. S., ***Zheng, Y.***, & Chan, A. B. (2022). Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models. _npj Science of Learning, 7_(1), 1-13. [(***Download***)](https://www.nature.com/articles/s41539-022-00139-6) 
+* Hsiao, J. H.*, An, J., Hui, V. K. S., ***Zheng, Y.***, & Chan, A. B. (2022). Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models. _npj Science of Learning, 7_(1), 1-13. [(***PDF***)](https://mercuryzheng.github.io/files/npjsol_2022.pdf) 
 
-*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. https://doi.org/10.1016/j.learninstruc.2021.101542 [(***PDF***)](https://mercuryzheng.github.io/files/Zheng LI 2022.pdf) 
+*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. https://doi.org/10.1016/j.learninstruc.2021.101542 [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_LI.pdf) 
 
 *	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X. (2022, accepted by Attention, Perception, & Psychophysics). Making a saccade enhances Stroop and Simon conflict control. 
 
