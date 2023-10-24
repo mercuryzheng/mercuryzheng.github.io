@@ -12,8 +12,9 @@ redirect_from:
 Hi, this is Yueyuan (Mercury) Zheng. I am currently a final-year Ph.D. student in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) at the [Department of Psychology](https://psychology.hku.hk/), University of Hong Kong. I obtained my MPhil degree in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) and Bachelor degree in Psychology at the University of Hong Kong in 2021 and 2018, respectively.
 \
   \
-My research interests include visual cognition, science of learning, and computational modeling.\
-More specifically, I am interested in how multimodal information can guide people's eye movement strategies when doing various tasks (e.g., multimedia learning, emotion recognition, and face recognition), and the neural representations underlying those effects. I am also interested in simulating human cognition using computational modeling to better understand the patterns and mechanisms of human behaviors. 
+### Research interests  
+I am interested in understanding how humans perceive and respond to the world using behavioral, eye-tracking, and computational approaches. I also simulate human cognition using artificial neural networks to better understand the patterns and mechanisms of human behaviors. 
+Keywords: Visual Cognition, Science of Learning, Emotion, Computational Modeling.
 \
   \
 For more information, check out my [CV](https://mercuryzheng.github.io/files/yz_cv.pdf) here.
