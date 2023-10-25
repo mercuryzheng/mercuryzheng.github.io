@@ -20,7 +20,7 @@ I am interested in understanding how humans perceive and respond to the world us
 **Keywords**: Visual Cognition, Science of Learning, Emotion, Computational Modeling.
   
   
------------------ ~ `u` ~ -------------------  
+----------------- · u · -------------------  
 Feel free to contact me through email if you would like to communicate!  
   
   
