@@ -22,7 +22,7 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 *	Hsiao, J. H.* , Lan H., ***Zheng, Y.***, & Chan, A. B. (2021). Eye Movement analysis with Hidden Markov Models (EMHMM) with co-clustering. _Behavior Research Methods_, 1-14.  [(***PDF***)](https://mercuryzheng.github.io/files/Hsiao2021BRM_.pdf)
 
-*	Hsiao, J. H.* , An, J.,  ***Zheng, Y.***, & Chan, A. B. (2021). Do portrait artists have enhanced face processing abilities? Evidence from hidden Markov modeling of eye movements._ Cognition, 211_, 104616. [(***PDF***)](https://mercuryzheng.github.io/files/Hsiao2021Cognition.pdf) 
+*	Hsiao, J. H.* , An, J., ***Zheng, Y.***, & Chan, A. B. (2021). Do portrait artists have enhanced face processing abilities? Evidence from hidden Markov modeling of eye movements. _ Cognition, 211_, 104616. [(***PDF***)](https://mercuryzheng.github.io/files/Hsiao2021Cognition.pdf) 
 
 *	Turbett, K.* , Jeffery, L., Bell, J., Digges, A., ***Zheng, Y.***, Hsiao, J. H., Palermo, R. (2021). Serial Dependence of Facial Identity for Own- and Other-Race Faces. _Quarterly Journal of Experimental Psychology_, 17470218211059430. [(***PDF***)](https://mercuryzheng.github.io/files/Turbett2021QJEP.pdf)  
   
