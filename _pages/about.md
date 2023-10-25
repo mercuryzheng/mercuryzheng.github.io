@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <span style="color:cyan">I am looking for a post-doc position in (computational) cognitive science in 2024-2025! :)</span>.
+/
 /
 Hi, this is Yueyuan (Mercury) Zheng. I am currently a final-year Ph.D. student in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) at the [Department of Psychology](https://psychology.hku.hk/), [University of Hong Kong](https://www.hku.hk/). I obtained my MPhil degree in cognitive psychology supervised by Dr [Janet Hsiao](http://abc.psy.hku.hk/janet/) and Bachelor degree in Psychology at [University of Hong Kong](https://www.hku.hk/) in 2021 and 2018, respectively.
 /
