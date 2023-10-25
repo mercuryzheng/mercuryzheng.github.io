@@ -9,7 +9,7 @@ author_profile: true
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
-*	***Zheng, Y.***, & Hsiao, J. H.* (2023). Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028.[(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_Emotion.pdf)
+*	***Zheng, Y.***, & Hsiao, J. H.* (2023). Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_Emotion.pdf)
   
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
 reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Download***)](https://www.nature.com/articles/s41598-023-28426-1)
@@ -40,7 +40,7 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Downloa
 
 * Qi, R., ***Zheng, Y.***, Yang, Y., Zhang, J., & Hsiao, J. H. (2023). Individual differences in explanation strategies for image classification and implications for explainable AI. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***PDF***)](https://escholarship.org/content/qt4kp9h54m/qt4kp9h54m.pdf) 
   
-* ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) 
+* ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) [(***PDF***)](https://escholarship.org/content/qt0nk0d8j7/qt0nk0d8j7.pdf)
 
 * ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [**Student Award Winner**] [**Best Full Paper Nomination**]
 
