@@ -83,8 +83,8 @@ author:
   name             : "Yueyuan Zheng"
   avatar           : "mercury_sunset.jpeg"
   bio              : "PhD candidate from University of Hong Kong, in the field of Cognitive Science"
-  location         : "Department of Psychology"
-  employer         : "University of Hong Kong"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Cpnk91sAAAAJ"
   email            : "mercuryzheng@connect.hku.hk"
