@@ -24,15 +24,15 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 *	Hsiao, J. H.* , An, J.,  ***Zheng, Y.***, & Chan, A. B. (2021). Do portrait artists have enhanced face processing abilities? Evidence from hidden Markov modeling of eye movements._ Cognition, 211_, 104616. [(***PDF***)](https://mercuryzheng.github.io/files/Hsiao2021Cognition.pdf) 
 
-*	Turbett, K.* , Jeffery, L., Bell, J., Digges, A., ***Zheng, Y.***, Hsiao, J. H., Palermo, R. (2021). Serial Dependence of Facial Identity for Own- and Other-Race Faces. _Quarterly Journal of Experimental Psychology_, 17470218211059430. [(***PDF***)](https://mercuryzheng.github.io/files/Turbett2021QJEP.pdf)
+*	Turbett, K.* , Jeffery, L., Bell, J., Digges, A., ***Zheng, Y.***, Hsiao, J. H., Palermo, R. (2021). Serial Dependence of Facial Identity for Own- and Other-Race Faces. _Quarterly Journal of Experimental Psychology_, 17470218211059430. [(***PDF***)](https://mercuryzheng.github.io/files/Turbett2021QJEP.pdf)  
+  
 
 
 
-
-***Preprints***
+**Preprints**
 * Qi, R.#, ***Zheng, Y.***#, Yang, Y., Cao, C. C., & Hsiao, J. H. (2023). Explanation Strategies for Image Classification in Humans vs. Current Explainable AI. [(***link***)](https://arxiv.org/abs/2304.04448)
-*	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***link***)](https://arxiv.org/abs/2107.14000)
-
+*	Qiu, L., Yang, Y., Cao, C. C., Liu, J., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2021). Resisting Out-of-Distribution Data Problem in Perturbation of XAI. arXiv:2107.14000 [(***link***)](https://arxiv.org/abs/2107.14000)  
+  
 
 
 ### Full-Paper Publications in Peer-Reviewed Conference Proceedings
@@ -57,4 +57,5 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 ### Abstract Publications in Peer-Reviewed Conference Proceedings
 * Hsiao, J., Chan, K. W. S., Chan, A., ***Zheng, Y.***, Lau, K. M., Tsang, H. L. M. (2021). Eye movement consistency in global-local perceptual processing predicts schizotypy. Proceedings of the 43rd Annual Conference of the Cognitive Science Society, 3229. Montreal, QB: Cognitive Science Society.
+
 * Hui, T. K., Sit, H. F., Cheung, T. W., ***Zheng, Y.***, Hsiao, J. H., Li, S. X. (2023). Mediating Effect of Pre-Sleep Arousals on the Association between Sleep-related Attentional Bias and Sleep Disturbances – An Eye-tracking Study. Asian Society of Sleep Medicine (ASSM) 2023. [**Young Investigator Award**]
