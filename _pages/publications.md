@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=Cpnk91sAAAAJ) 
+For most updated list of publications, please refer to [Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=Cpnk91sAAAAJ) 
 
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
@@ -12,13 +12,13 @@ author_profile: true
 *	***Zheng, Y.***, & Hsiao, J. H.* (2023). Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_Emotion.pdf)
   
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
-reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Download***)](https://www.nature.com/articles/s41598-023-28426-1)
+reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)](https://mercuryzheng.github.io/files/Que2023SR.pdf)
 
 * Hsiao, J. H.*, An, J., Hui, V. K. S., ***Zheng, Y.***, & Chan, A. B. (2022). Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models. _npj Science of Learning, 7_(1), 1-13. [(***PDF***)](https://mercuryzheng.github.io/files/npjsol_2022.pdf) 
 
-*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. https://doi.org/10.1016/j.learninstruc.2021.101542 [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_LI.pdf) 
+*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_LI.pdf) 
 
-*	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X. (2022, accepted by Attention, Perception, & Psychophysics). Making a saccade enhances Stroop and Simon conflict control. 
+*	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X. (2022, accepted by Attention, Perception, & Psychophysics). Making a saccade enhances Stroop and Simon conflict control. [(***PDF***)](https://mercuryzheng.github.io/files/Luo2022APP.pdf)
 
 *	Hsiao, J. H.* , Lan H., ***Zheng, Y.***, & Chan, A. B. (2021). Eye Movement analysis with Hidden Markov Models (EMHMM) with co-clustering. _Behavior Research Methods_, 1-14.  [(***PDF***)](https://mercuryzheng.github.io/files/Hsiao2021BRM_.pdf)
 
@@ -42,15 +42,15 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***Downloa
   
 * ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) [(***PDF***)](https://escholarship.org/content/qt0nk0d8j7/qt0nk0d8j7.pdf)
 
-* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [**Student Award Winner**] [**Best Full Paper Nomination**]
+* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [**Student Award Winner**] [**Best Full Paper Nomination**] [(***PDF***)](https://mercuryzheng.github.io/files/Zheng_2022_ICALT.pdf)
 
-* Yang, Y., ***Zheng, Y.***, Deng, D., Zhang, J., Huang, Y., Yang, Y., Hsiao, J. H., & Cao, C.* (2022). HSI: Human Saliency Imitator for Benchmarking Saliency-based Model Explanations. The Tenth AAAI Conference on Human Computation and Crowdsourcing (HCOMP). (accept rate: 29%)
+* Yang, Y., ***Zheng, Y.***, Deng, D., Zhang, J., Huang, Y., Yang, Y., Hsiao, J. H., & Cao, C.* (2022). HSI: Human Saliency Imitator for Benchmarking Saliency-based Model Explanations. The Tenth AAAI Conference on Human Computation and Crowdsourcing (HCOMP). (accept rate: 29%) [(***PDF***)](https://mercuryzheng.github.io/files/Yang2022_Hcomp.pdf)
 
 * Qiu, L., Yang, Y., Cao, C. C., ***Zheng, Y.***, Ngai, H. H. T., Hsiao, J. H., & Chen, L. (2022). Generating Perturbation-based Explanations with Robustness to Out-of-Distribution Data. The ACM Web Conference 2022 (under Web4Good special track). (accept rate: 24%)
 
-* ***Zheng, Y.***, & Hsiao, J. H. (2020). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. In S. Denison., M. Mack, Y. Xu, & B.C. Armstrong (Eds.), Proceedings of the 42nd Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 22%)
+* ***Zheng, Y.***, & Hsiao, J. H. (2020). Audiovisual Information Processing in Emotion Recognition: An Eye Tracking Study. In S. Denison., M. Mack, Y. Xu, & B.C. Armstrong (Eds.), Proceedings of the 42nd Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 22%) [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2020CogSci.pdf)
 
-* Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2020). Exploring the Effect of Personalized Background Music on Reading Comprehension. Proceedings of the Jointed Conference on Digital Libraries (JCDL) 2020 (pp. 57–66). Association for Computing Machinery, New York, NY, USA. (accept rate: 31.1%)
+* Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2020). Exploring the Effect of Personalized Background Music on Reading Comprehension. Proceedings of the Jointed Conference on Digital Libraries (JCDL) 2020 (pp. 57–66). Association for Computing Machinery, New York, NY, USA. (accept rate: 31.1%) [(***PDF***)](https://mercuryzheng.github.io/files/Que2020JCDL.pdf)
 
 * ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [**Student Travel Award Winner**] [(***PDF***)](https://www.researchgate.net/profile/Yueyuan-Zheng-2/publication/346096163_Does_Video_Content_Facilitate_or_Impair_Comprehension_of_Documentaries_The_Effect_of_Cognitive_Abilities_and_Eye_Movement_Strategy/links/5fbb6cff458515b797628e10/Does-Video-Content-Facilitate-or-Impair-Comprehension-of-Documentaries-The-Effect-of-Cognitive-Abilities-and-Eye-Movement-Strategy.pdf)
 
