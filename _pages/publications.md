@@ -14,11 +14,11 @@ For the most updated list of publications, please refer to [Google Scholar Profi
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2023). Studying the effect of self-selected background music on
 reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)](https://mercuryzheng.github.io/files/Que2023SR.pdf)
 
-* Hsiao, J. H.*, An, J., Hui, V. K. S., ***Zheng, Y.***, & Chan, A. B. (2022). Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models. _npj Science of Learning, 7_(1), 1-13. [(***PDF***)](https://mercuryzheng.github.io/files/npjsol_2022.pdf) 
+* Hsiao, J. H.* , An, J., Hui, V. K. S., ***Zheng, Y.***, & Chan, A. B. (2022). Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models. _npj Science of Learning, 7_(1), 1-13. [(***PDF***)](https://mercuryzheng.github.io/files/npjsol_2022.pdf) 
 
 *	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_LI.pdf) 
 
-*	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X. (2022, accepted by Attention, Perception, & Psychophysics). Making a saccade enhances Stroop and Simon conflict control. [(***PDF***)](https://mercuryzheng.github.io/files/Luo2022APP.pdf)
+*	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X.* (2022). Making a saccade enhances Stroop and Simon conflict control. _Attention, Perception, & Psychophysics, 84_(3), 795-814. [(***PDF***)](https://mercuryzheng.github.io/files/Luo2022APP.pdf)
 
 *	Hsiao, J. H.* , Lan H., ***Zheng, Y.***, & Chan, A. B. (2021). Eye Movement analysis with Hidden Markov Models (EMHMM) with co-clustering. _Behavior Research Methods_, 1-14.  [(***PDF***)](https://mercuryzheng.github.io/files/Hsiao2021BRM_.pdf)
 
