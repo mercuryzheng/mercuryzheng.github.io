@@ -41,9 +41,9 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 * Qi, R., ***Zheng, Y.***, Yang, Y., Zhang, J., & Hsiao, J. H. (2023). Individual differences in explanation strategies for image classification and implications for explainable AI. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***PDF***)](https://escholarship.org/content/qt4kp9h54m/qt4kp9h54m.pdf) 
   
-* ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) [(***PDF***)](https://escholarship.org/content/qt0nk0d8j7/qt0nk0d8j7.pdf)
+* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). <span style="color:#6A5ACD; font-weight:bold">[Student Award Winner] [Best Full Paper Nomination]</span> [(***PDF***)](https://mercuryzheng.github.io/files/Zheng_2022_ICALT.pdf)
 
-* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). [**Student Award Winner**] [**Best Full Paper Nomination**] [(***PDF***)](https://mercuryzheng.github.io/files/Zheng_2022_ICALT.pdf)
+* ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (accept rate: 27%) [(***PDF***)](https://escholarship.org/content/qt0nk0d8j7/qt0nk0d8j7.pdf)
 
 * Yang, Y., ***Zheng, Y.***, Deng, D., Zhang, J., Huang, Y., Yang, Y., Hsiao, J. H., & Cao, C.* (2022). HSI: Human Saliency Imitator for Benchmarking Saliency-based Model Explanations. The Tenth AAAI Conference on Human Computation and Crowdsourcing (HCOMP). (accept rate: 29%) [(***PDF***)](https://mercuryzheng.github.io/files/Yang2022_Hcomp.pdf)
 
@@ -53,10 +53,10 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 * Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2020). Exploring the Effect of Personalized Background Music on Reading Comprehension. Proceedings of the Jointed Conference on Digital Libraries (JCDL) 2020 (pp. 57–66). Association for Computing Machinery, New York, NY, USA. (accept rate: 31.1%) [(***PDF***)](https://mercuryzheng.github.io/files/Que2020JCDL.pdf)
 
-* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) [**Student Travel Award Winner**] [(***PDF***)](https://hub.hku.hk/bitstream/10722/274711/1/Content.pdf?accept=1)
+* ***Zheng, Y.***, Ye, X., & Hsiao, J. H. (2019). Does video content facilitate or impair comprehension of documentaries? The effect of cognitive abilities and eye movement strategy. In A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 41st Annual Conference of the Cognitive Science Society, 1283-1289. Montreal, QB: Cognitive Science Society. (accept rate: 25.3%) <span style="color:#6A5ACD; font-weight:bold">[Student Travel Award Winner]</span> [(***PDF***)](https://hub.hku.hk/bitstream/10722/274711/1/Content.pdf?accept=1)
 
 
 ### Abstract Publications in Peer-Reviewed Conference Proceedings
 * Hsiao, J., Chan, K. W. S., Chan, A., ***Zheng, Y.***, Lau, K. M., Tsang, H. L. M. (2021). Eye movement consistency in global-local perceptual processing predicts schizotypy. Proceedings of the 43rd Annual Conference of the Cognitive Science Society, 3229. Montreal, QB: Cognitive Science Society.
 
-* Hui, T. K., Sit, H. F., Cheung, T. W., ***Zheng, Y.***, Hsiao, J. H., Li, S. X. (2023). Mediating Effect of Pre-Sleep Arousals on the Association between Sleep-related Attentional Bias and Sleep Disturbances – An Eye-tracking Study. Asian Society of Sleep Medicine (ASSM) 2023. [**Young Investigator Award**]
+* Hui, T. K., Sit, H. F., Cheung, T. W., ***Zheng, Y.***, Hsiao, J. H., Li, S. X. (2023). Mediating Effect of Pre-Sleep Arousals on the Association between Sleep-related Attentional Bias and Sleep Disturbances – An Eye-tracking Study. Asian Society of Sleep Medicine (ASSM) 2023. <span style="color:#6A5ACD; font-weight:bold">[Young Investigator Award]</span>
