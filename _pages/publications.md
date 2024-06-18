@@ -9,7 +9,8 @@ For the most updated list of publications, please refer to [Google Scholar Profi
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
-*	Qi, R.#, ***Zheng, Y.***#, Yang, Y., Cao, C. C., & Hsiao, J. H.* (2024). Explanation strategies for image classification in humans vs. current explainable artificial intelligence. _British Journal of Psychology_. [(***PDF***)](https://mercuryzheng.github.io/files/Qi2024BJP.pdf)
+*	Qi, R.#, ***Zheng, Y.***#, Yang, Y., Cao, C. C., & Hsiao, J. H.* (2024). Explanation strategies in humans versus current
+explainable artificial intelligence: Insights from image classification. _British Journal of Psychology_. [(***PDF***)](https://mercuryzheng.github.io/files/Qi2024BJP.pdf)
 
 *	***Zheng, Y.***, & Hsiao, J. H.* (2023). Differential audiovisual information processing in emotion recognition: An Eye Tracking Study. _Emotion, 23_(4), 1028. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2023Emotion.pdf) 
   
