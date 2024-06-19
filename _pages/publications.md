@@ -44,6 +44,8 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 * Xing, W.#, ***Zheng, Y.***#, Chan, A., & Hsiao, J. H. (2024). Is Holistic Processing Associated with Face Scanning Pattern and Performance in Face Recognition? Evidence from Deep Neural Network with Hidden Markov Modeling. Proceedings of the 46th Annual Conference of the Cognitive Science Society. Cognitive Science Society. (acceptance rate: 19%) <span style="color:#6A5ACD; font-weight:bold">[Oral]</span> [(***PDF***)](https://mercuryzheng.github.io/files/Xing2024CogSci.pdf)
 
+* Que, Y., ***Zheng, Y.***, Hsiao, J. H., Hu, X. (2024). Predicting Learners’ Meta-cognition Using Eye Movements during Reading with Background Music. Proceedings of the 24th IEEE International Conference on Advanced Learning Technologies (ICALT).
+
 * ***Zheng, Y.***, de la Harpe, S., Yang, A. Y., Hayward, W. G., Palermo, R., Hsiao, J. H. (2023). Cultural Differences in the Effect of Mask Use on Face and Facial Expression Recognition. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***PDF***)](https://escholarship.org/content/qt5dk4k4nq/qt5dk4k4nq.pdf)
 
 * Qi, R., ***Zheng, Y.***, Yang, Y., Zhang, J., & Hsiao, J. H. (2023). Individual differences in explanation strategies for image classification and implications for explainable AI. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***PDF***)](https://escholarship.org/content/qt4kp9h54m/qt4kp9h54m.pdf) 
