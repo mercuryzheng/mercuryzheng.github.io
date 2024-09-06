@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<!--- <span style="color:#6A5ACD; font-weight:bold">I am looking for a post-doc position in the field of (computational) cognitive science in 2024-2025 :)! </span> --->
   
-Hi, this is Yueyuan (Mercury) Zheng. I am currently a final-year Ph.D. student in cognitive psychology supervised by Prof. [Janet Hsiao](https://jhhsiao.people.ust.hk/index.html) at the [Department of Psychology](https://psychology.hku.hk/), [University of Hong Kong](https://www.hku.hk/). I obtained my MPhil degree in cognitive psychology supervised by Prof. [Janet Hsiao](https://jhhsiao.people.ust.hk/index.html) and Bachelor degree in Psychology at [University of Hong Kong](https://www.hku.hk/) in 2021 and 2018, respectively.  
+Hi, this is Yueyuan (Mercury) Zheng, a research assistant professor in the Division of Social Science at Hong Kong University of Science & Technology (HKUST). I received my Ph.D. degree in cognitive psychology supervised by Prof. [Janet Hsiao](https://jhhsiao.people.ust.hk/index.html) at the [Department of Psychology](https://psychology.hku.hk/), [University of Hong Kong](https://www.hku.hk/) in 2024.  
   
 For more information, check out my [CV](https://mercuryzheng.github.io/files/yz_cv.pdf) here.  
 
 ### Research interests  
 I am interested in understanding how humans perceive and respond to the world using behavioral, eye-tracking, and computational approaches. For example, I investigate how multimodal information influences human visual strategies and further contributes to their behavioral performance (in scenarios such as multimedia learning and audiovisual emotion perception). I also try to simulate human perception and cognition using artificial neural networks to better understand patterns and mechanisms of human behaviors.  
   
-**Keywords**: Visual Cognition, Science of Learning, Emotion, Computational Modeling.
+**Keywords**: Visual Cognition, Science of Learning, Emotion, Computational Modeling, Explainable AI.
   
   
   
