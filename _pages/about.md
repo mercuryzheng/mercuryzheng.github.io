@@ -9,7 +9,7 @@ redirect_from:
 ---
 
   
-Hi, this is Yueyuan (Mercury) Zheng, a research assistant professor in the Division of Social Science at Hong Kong University of Science & Technology (HKUST). I received my Ph.D. degree in cognitive psychology supervised by Prof. [Janet Hsiao](https://jhhsiao.people.ust.hk/index.html) at the [Department of Psychology](https://psychology.hku.hk/), [University of Hong Kong](https://www.hku.hk/) in 2024.  
+Hi, this is Mercury Yueyuan Zheng, a research assistant professor in the Division of Social Science at Hong Kong University of Science & Technology (HKUST). I received my Ph.D. degree in cognitive psychology supervised by Prof. [Janet Hsiao](https://jhhsiao.people.ust.hk/index.html) at the [Department of Psychology](https://psychology.hku.hk/), [University of Hong Kong](https://www.hku.hk/) in 2024.  
   
 For more information, check out my [CV](https://mercuryzheng.github.io/files/yz_cv.pdf) here.  
 
