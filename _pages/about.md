@@ -16,8 +16,11 @@ For more information, check out my [CV](https://mercuryzheng.github.io/files/yz_
 ### Research interests  
 I am interested in understanding how humans perceive and respond to the world using behavioral, eye-tracking, and computational approaches. For example, I investigate how multimodal information influences human visual strategies and further contributes to their behavioral performance (in scenarios such as multimedia learning and audiovisual emotion perception). I also try to simulate human perception and cognition using artificial neural networks to better understand patterns and mechanisms of human behaviors.  
   
-**Keywords**: Visual Cognition, Science of Learning, Emotion, Computational Modeling, Explainable AI.
-  
+* Visual Cognition
+* Science of Learning
+* Emotion
+* Computational Modeling
+* Explainable AI.
   
   
   
