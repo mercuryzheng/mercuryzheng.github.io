@@ -9,11 +9,11 @@ For the most updated list of publications, please refer to [Google Scholar Profi
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
-*	***Zheng, Y.***#, Chen D.#, Hu, X.*, & Hsiao, J. H.* (2026). The effect of mask use on cross-race face perception: Evidence from simultaneous EEG and eye movement recording. _Cognitive Research: Principles and Implications, 11:9_. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2026CRPI.pdf)
+*	***Zheng, Y.***#, Chen D.#, Hu, X.\*, & Hsiao, J. H.\* (2026). The effect of mask use on cross-race face perception: Evidence from simultaneous EEG and eye movement recording. _Cognitive Research: Principles and Implications, 11:9_. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2026CRPI.pdf)
   
-*	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2025). Using eye movements, electrodermal activities, and heart rates to measure cognitive load during reading with self-selected background music. _Scientific Reports_. [(***PDF***)](https://mercuryzheng.github.io/files/Que2025SR.pdf)
+*	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.\* (2025). Using eye movements, electrodermal activities, and heart rates to measure cognitive load during reading with self-selected background music. _Scientific Reports_. [(***PDF***)](https://mercuryzheng.github.io/files/Que2025SR.pdf)
 
-*	Liu, G., ***Zheng, Y.***, Tsang, M., Zhao, Y., Hsiao, J. H.* (2025). Understanding the role of eye movement pattern and consistency during face recognition through EEG decoding. _npj Science of Learning_, 10, 28.[(***PDF***)](https://mercuryzheng.github.io/files/Liu2025npjsol.pdf)
+*	Liu, G., ***Zheng, Y.***, Tsang, M., Zhao, Y., & Hsiao, J. H.\* (2025). Understanding the role of eye movement pattern and consistency during face recognition through EEG decoding. _npj Science of Learning_, 10, 28.[(***PDF***)](https://mercuryzheng.github.io/files/Liu2025npjsol.pdf)
 
 *	Buchanan, E. M., Cuccolo, K., Heyman, T., ..., Hsiao, J. H., ..., ***Zheng, Y.***, ..., & Lewis, S. (2025). Measuring the Semantic Priming Effect Across Many Languages. Measuring the semantic priming effect across many languages. _Nature Human Behaviour_, 1-20. [(***PDF***)](https://mercuryzheng.github.io/files/NHB2025.pdf)
 
