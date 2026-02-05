@@ -9,6 +9,16 @@ For the most updated list of publications, please refer to [Google Scholar Profi
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
+*	***Zheng, Y.***#, Chen D.#, Hu, X.*, & Hsiao, J. H.* (2026). The effect of mask use on cross-race face perception: Evidence from simultaneous EEG and eye movement recording. _Cognitive Research: Principles and Implications, 11:9_. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2026CRPI.pdf)
+  
+*	Buchanan, E. M., Cuccolo, K., Heyman, T., ..., Hsiao, J. H., ..., ***Zheng, Y.***, ..., & Lewis, S. (2025). Measuring the Semantic Priming Effect Across Many Languages. Measuring the semantic priming effect across many languages. _Nature Human Behaviour_, 1-20. [(***PDF***)](https://mercuryzheng.github.io/files/NHB2025.pdf)
+
+*	Heyman, T., Pronizius, E., Lewis, S. C., Acar, O. A., ..., ***Zheng, Y.***, Buchanan, E. M. (2025). Crowdsourcing multiverse analyses to explore the impact of different data-processing and analysis decisions: A tutorial. _Psychological Methods_. [(***PDF***)](https://mercuryzheng.github.io/files/Heyman2025CrowdsourcingMultiverseAnalyses.pdf)
+
+*	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.* (2025). Using eye movements, electrodermal activities, and heart rates to measure cognitive load during reading with self-selected background music. _Scientific Reports_. [(***PDF***)](https://mercuryzheng.github.io/files/Que2025SR.pdf)
+
+*	Liu, G., ***Zheng, Y.***, Tsang, M., Zhao, Y., Hsiao, J. H.* (2025). Understanding the role of eye movement pattern and consistency during face recognition through EEG decoding. _npj Science of Learning_, 10, 28.[(***PDF***)](https://mercuryzheng.github.io/files/Liu2025npjsol.pdf)
+
 *	Qi, R.#, ***Zheng, Y.***#, Yang, Y., Cao, C. C., & Hsiao, J. H.* (2024). Explanation strategies in humans versus current
 explainable artificial intelligence: Insights from image classification. _British Journal of Psychology_. [(***PDF***)](https://mercuryzheng.github.io/files/Qi2024BJP.pdf)
 
@@ -40,6 +50,10 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 
 ### Full-Paper Publications in Peer-Reviewed Conference Proceedings
+* Wang, E., ***Zheng, Y.***, Hsiao, J. H., & Maurer, U. (2025). Emotion influences behavioral outcomes and attention during goal-directed reading. Proceedings of the 47th Annual Conference of the Cognitive Science Society. Cognitive Science Society. (Oral; acceptance rate: 13.8%) <span style="color:#6A5ACD; font-weight:bold">[Oral]</span>
+
+* Ding, R., ***Zheng, Y.***, Hsiao, J. H., & He, L. (2025). Convolutional neural networks and humans display similar biases and attention distributions in visualization-based statistical judgments. Proceedings of the 47th Annual Conference of the Cognitive Science Society. Cognitive Science Society.
+
 * ***Zheng, Y.***, Liao, W., Tso, R., Hsiao, J. H. (2024). The Impact of Mask Use on Face Recognition in Adults with Autism Spectrum Disorder: An Eye-Tracking Study. Proceedings of the 46th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2024CogSci.pdf)
 
 * Xing, W.#, ***Zheng, Y.***#, Chan, A., & Hsiao, J. H. (2024). Is Holistic Processing Associated with Face Scanning Pattern and Performance in Face Recognition? Evidence from Deep Neural Network with Hidden Markov Modeling. Proceedings of the 46th Annual Conference of the Cognitive Science Society. Cognitive Science Society. (acceptance rate: 19%) <span style="color:#6A5ACD; font-weight:bold">[Oral]</span> [(***PDF***)](https://mercuryzheng.github.io/files/Xing2024CogSci.pdf)
