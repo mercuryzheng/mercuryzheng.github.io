@@ -11,7 +11,7 @@ redirect_from:
   
 Hi, this is Mercury Yueyuan Zheng, a research assistant professor in the [Division of Social Science](https://sosc.hkust.edu.hk/) at [Hong Kong University of Science & Technology (HKUST)](https://hkust.edu.hk/). I received my Ph.D. degree in cognitive psychology supervised by Prof. [Janet Hsiao](https://jhhsiao.people.ust.hk/index.html) at the [Department of Psychology](https://psychology.hku.hk/), [University of Hong Kong](https://www.hku.hk/) in 2024.  
   
-For more information, check out my [CV](https://mercuryzheng.github.io/files/yz_cv.pdf) here.  
+For more information, check out my [CV](https://mercuryzheng.github.io/files/Zheng_ust_2602.pdf) here.  
 
 ### Research interests  
 I am interested in understanding how humans perceive and respond to the world using behavioral, eye-tracking, and computational approaches. For example, I investigate how multimodal information influences human visual strategies and further contributes to their behavioral performance (in scenarios such as multimedia learning and audiovisual emotion perception). I also try to simulate human perception and cognition using artificial neural networks to better understand patterns and mechanisms of human behaviors.  
