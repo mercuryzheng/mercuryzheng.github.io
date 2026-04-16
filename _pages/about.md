@@ -29,7 +29,7 @@ I am interested in understanding how humans perceive and respond to the world us
 Feel free to contact me through email if you would like to communicate!  
   
   
-  
+Personal Interests: Taekwondo (Kukkiwon's 2nd Dan 世界跆拳道總部授黑帶二段); Violin; Chess; Photography.
   
   
   
