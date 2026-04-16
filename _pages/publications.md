@@ -64,7 +64,7 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 * Qi, R., ***Zheng, Y.***, Yang, Y., Zhang, J., & Hsiao, J. H. (2023). Individual differences in explanation strategies for image classification and implications for explainable AI. Proceedings of the 45th Annual Conference of the Cognitive Science Society. Cognitive Science Society. [(***PDF***)](https://escholarship.org/content/qt4kp9h54m/qt4kp9h54m.pdf) 
   
-* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Eye movement pattern and consistency predict passage reading performance of English as Second Language (ESL) Learners. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). <span style="color:#6A5ACD; font-weight:bold">[Student Award Winner] [Best Full Paper Nomination][Oral]</span> [(***PDF***)](https://mercuryzheng.github.io/files/Zheng_2022_ICALT.pdf)
+* ***Zheng, Y.***, Que, Y., Hu, X., Hsiao, J. H.* (2022). Predicting reading performance based on eye movement analysis with hidden Markov models. Proceedings of the 22nd IEEE International Conference on Advanced Learning Technologies (ICALT). <span style="color:#6A5ACD; font-weight:bold">[Student Award Winner] [Best Full Paper Nomination][Oral]</span> [(***PDF***)](https://mercuryzheng.github.io/files/Zheng_2022_ICALT.pdf)
 
 * ***Zheng, Y.***, Chen, D., Hu, X., Hsiao, J. H.* (2022). The impact of mask use on social categorization. Proceedings of the 44th Annual Conference of the Cognitive Science Society, 2024-2630. Cognitive Science Society. (acceptance rate: 27%) <span style="color:#6A5ACD; font-weight:bold">[Oral]</span> [(***PDF***)](https://escholarship.org/content/qt0nk0d8j7/qt0nk0d8j7.pdf)
 
