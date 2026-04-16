@@ -80,6 +80,13 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 
 ### Abstract Publications in Peer-Reviewed Conference Proceedings
+
+* ***Zheng, Y.***, Chen, D., Palermo, R., Hu, X., Hsiao, J. H. (2026). Cultural differences in the effect of mask use on cross-race face perception: An eye-tracking study. Proceedings of the 44th Annual Conference of the Cognitive Science Society. Cognitive Science Society. (accepted as a full paper)
+
+* Fung, L., ***Zheng, Y.***, Shi, B. E., Hsiao, J. H., Woo, J. (2025). What do older adults want from social robots and artificial intelligence? A product-oriented perspective. Annual Scientific Meeting of the Gerontological Society of America (GSA).
+
+* ***Zheng, Y.***, Lo., W. S., Lau, E. Y. Y., Eskes, G., Hui, L. L., & Hsiao, J. H. (2025). The Role of Eye Movement Consistency in Aging-Related Decline in Face Recognition. Proceedings of the 47th Annual Conference of the Cognitive Science Society (pp.). Cognitive Science Society. (accepted as a full paper)
+
 * Yang, A., ***Zheng, Y.***, Hsiao, J. H., Chung, S. (2024). Eye Movement Modulates the Face Inversion Effect in Emotion Recognition. Vision Science Society.
   
 * Hsiao, J., Chan, K. W. S., Chan, A., ***Zheng, Y.***, Lau, K. M., Tsang, H. L. M. (2021). Eye movement consistency in global-local perceptual processing predicts schizotypy. Proceedings of the 43rd Annual Conference of the Cognitive Science Society, 3229. Montreal, QB: Cognitive Science Society.
