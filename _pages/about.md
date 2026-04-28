@@ -14,7 +14,7 @@ Hi, this is Mercury Yueyuan Zheng, a research assistant professor in the [Divisi
 For more information, check out my [CV](https://mercuryzheng.github.io/files/Zheng_ust_2602.pdf) here.  
 
 ### Research interests  
-I am interested in understanding how humans perceive and respond to the world using behavioral, eye-tracking, and computational approaches. For example, I investigate how multimodal information influences human visual strategies and further contributes to their behavioral performance (in scenarios such as multimedia learning and audiovisual emotion perception). I also try to simulate human perception and cognition using artificial neural networks to better understand patterns and mechanisms of human behaviors.  
+I am interested in understanding how humans perceive and respond to the world using behavioral, eye-tracking, EEG, and computational approaches. For example, I investigate how multimodal information influences human visual strategies and further contributes to their behavioral performance (in scenarios such as multimedia learning and audiovisual emotion perception). I also try to simulate human perception and cognition using artificial neural networks to better understand patterns and mechanisms of human behaviors.  
   
 * Visual Cognition
 * Science of Learning
