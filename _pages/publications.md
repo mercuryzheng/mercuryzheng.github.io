@@ -52,7 +52,7 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 
 ### Full-Paper Publications in Peer-Reviewed Conference Proceedings
-* Fan, C., Yang, X., ***Zheng, Y.***, Zhou, B., Wang, Y., Hu, W., ... & Song, Y. (2026). GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety. In Findings of the Association for Computational Linguistics: ACL 2026 (pp. 22213-22248).
+* Fan, C., Yang, X., ***Zheng, Y.***, Zhou, B., Wang, Y., Hu, W., ... Hsiao, J. H., & Song, Y. (2026). GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety. In Findings of the Association for Computational Linguistics: ACL 2026 (pp. 22213-22248).
 
 * Wang, E., ***Zheng, Y.***, Hsiao, J. H., & Maurer, U. (2025). Emotion influences behavioral outcomes and attention during goal-directed reading. Proceedings of the 47th Annual Conference of the Cognitive Science Society. Cognitive Science Society. (Oral; acceptance rate: 13.8%) <span style="color:#6A5ACD; font-weight:bold">[Oral]</span>
 
