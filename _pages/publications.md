@@ -9,7 +9,7 @@ For the most updated list of publications, please refer to [Google Scholar Profi
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
-* ***Zheng, Y.***, Lo, W. S., Lau, E. Y. Y., Eskes, G., Hui, L. L.*, & Hsiao, J. H.* (in press). The role of eye movement consistency in aging-related decline in face recognition. npj Science of Learning.
+* ***Zheng, Y.***, Lo, W. S., Lau, E. Y. Y., Eskes, G., Hui, L. L.\*, & Hsiao, J. H.\* (in press). The role of eye movement consistency in aging-related decline in face recognition. npj Science of Learning.
 
 *	***Zheng, Y.***#, Chen D.#, Hu, X.\*, & Hsiao, J. H.\* (2026). The effect of mask use on cross-race face perception: Evidence from simultaneous EEG and eye movement recording. _Cognitive Research: Principles and Implications, 11:9_. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2026CRPI.pdf)
   
