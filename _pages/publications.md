@@ -9,6 +9,8 @@ For the most updated list of publications, please refer to [Google Scholar Profi
 
 ### Publications in Peer-reviewed Journals (# equal contribution; * corresponding author)
 
+* ***Zheng, Y.***, Lo, W. S., Lau, E. Y. Y., Eskes, G., Hui, L. L.*, & Hsiao, J. H.* (in press). The role of eye movement consistency in aging-related decline in face recognition. npj Science of Learning.
+
 *	***Zheng, Y.***#, Chen D.#, Hu, X.\*, & Hsiao, J. H.\* (2026). The effect of mask use on cross-race face perception: Evidence from simultaneous EEG and eye movement recording. _Cognitive Research: Principles and Implications, 11:9_. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2026CRPI.pdf)
   
 *	Que, Y., ***Zheng, Y.***, Hsiao, J. H., & Hu, X.\* (2025). Using eye movements, electrodermal activities, and heart rates to measure cognitive load during reading with self-selected background music. _Scientific Reports_. [(***PDF***)](https://mercuryzheng.github.io/files/Que2025SR.pdf)
@@ -50,6 +52,8 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 
 ### Full-Paper Publications in Peer-Reviewed Conference Proceedings
+* Fan, C., Yang, X., ***Zheng, Y.***, Zhou, B., Wang, Y., Hu, W., ... & Song, Y. (2026). GrandGuard: Taxonomy, Benchmark, and Safeguards for Elderly-Chatbot Interaction Safety. In Findings of the Association for Computational Linguistics: ACL 2026 (pp. 22213-22248).
+
 * Wang, E., ***Zheng, Y.***, Hsiao, J. H., & Maurer, U. (2025). Emotion influences behavioral outcomes and attention during goal-directed reading. Proceedings of the 47th Annual Conference of the Cognitive Science Society. Cognitive Science Society. (Oral; acceptance rate: 13.8%) <span style="color:#6A5ACD; font-weight:bold">[Oral]</span>
 
 * Ding, R., ***Zheng, Y.***, Hsiao, J. H., & He, L. (2025). Convolutional neural networks and humans display similar biases and attention distributions in visualization-based statistical judgments. Proceedings of the 47th Annual Conference of the Cognitive Science Society. Cognitive Science Society.
