@@ -31,7 +31,7 @@ reading task with eye movements. _Scientific Reports, 13_(1), 1704. [(***PDF***)
 
 * Hsiao, J. H.* , An, J., Hui, V. K. S., ***Zheng, Y.***, & Chan, A. B. (2022). Understanding the role of eye movement consistency in face recognition and autism through integrating deep neural networks and hidden Markov models. _npj Science of Learning, 7_(1), 1-13. [(***PDF***)](https://mercuryzheng.github.io/files/npjsol_2022.pdf) 
 
-*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_LI.pdf) 
+*	***Zheng, Y.***, Ye, X., & Hsiao, J. H.* (2022). Does adding video and subtitles to an audio lesson facilitate its comprehension?. _Learning and Instruction,_ 101542. [(***PDF***)](https://mercuryzheng.github.io/files/Zheng2022_LI.pdf) <span style="color:#6A5ACD; font-weight:bold">[Graduate Research Publication Award]</span>
 
 *	Luo, X., Gu, J.,  ***Zheng, Y.***, & Zhou, X.* (2022). Making a saccade enhances Stroop and Simon conflict control. _Attention, Perception, & Psychophysics, 84_(3), 795-814. [(***PDF***)](https://mercuryzheng.github.io/files/Luo2022APP.pdf)
 
